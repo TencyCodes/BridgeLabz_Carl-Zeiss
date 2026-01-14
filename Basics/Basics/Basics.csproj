@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject>Basics._02_BasicElements.Variables</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="03_TypeConversion\" />
+    <Folder Include="04_LogicalConstructs\" />
+    <Folder Include="05_Iterations\" />
+    <Folder Include="06_PatternPrinting\" />
+    <Folder Include="07_LogicalProblems\" />
+    <Folder Include="08_ProgrammingHygiene\" />
+  </ItemGroup>
+
+</Project>
