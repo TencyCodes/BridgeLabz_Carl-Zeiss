@@ -1,11 +1,11 @@
-#BridgeLabz-Carl-Zeiss-Daily Log
+# BridgeLabz-Carl-Zeiss-Daily Log
 ---
 
 In this Readme File , i'll Update whatever i learn everyday while attending the BridgeLabz Training Fellowship Program.
 
 ---
 
-#13th January , 2026 
+# 13th January , 2026 
 ---
 **What I have Done** : Created the Repository branch Structure for Github using git bash
 
@@ -13,7 +13,7 @@ In this Readme File , i'll Update whatever i learn everyday while attending the 
 
 **Issue Faced** : None
 
-#14th January , 2026 
+# 14th January , 2026 
 ---
 **What I have Done** : Set up Visual Studio environment for .NET development
 
@@ -30,6 +30,22 @@ In this Readme File , i'll Update whatever i learn everyday while attending the 
 * Practice more C# fundamental questions
 
 * If time permits, dive into intermediate programming concepts
+
+**Issue Faced** : None
+
+
+# 15th January , 2026 
+---
+## HOLIDAY 
+
+
+# 16th January , 2026 
+---
+**What I have Done** : Practiced Looping Problems , Pattern Problems and Logical Problems in C# 
+
+* I was given a Task by Kural Sir , where i had to implement Linux and git commands. Completed the task and sent the link of the task to GChat
+
+**What I Will Do Next** : Practice More Problems given by Kural sir in the Google Classroom and Revise Git and Linux commands
 
 **Issue Faced** : None
 
