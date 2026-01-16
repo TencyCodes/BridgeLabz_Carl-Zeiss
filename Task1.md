@@ -9,7 +9,7 @@ mkdir src tests docs
 touch README.md .gitignore
 
 cd src
-touch main.py
+touch main.cpp
 cd ..
 
 
@@ -33,29 +33,37 @@ git push -u origin main
 git checkout -b feature-login
 
 nano src/main.cpp
-cout<<"hello world"<<endl;
+cout<<"hello word;
 git add src/main.cpp
 git commit -m "Add login feature"
     
 git push -u origin feature-login
 
 
-
+#Stimulate a Team Change (Another Developer)
+---
 git checkout main
 nano src/main.cpp
 cout<<"Main branch update by teammate"
-git add src/main.py
+git add src/main.cpp
 git commit -m "Update main by teammate"
 git push
 
 
-#merge conflict
+#Merge 
 --- 
 git checkout feature-login
 git merge main
 
 
-#resolve merge conflict
+#Resolve Merge conflict
+---
+nano src/main.cpp
+Fix content to:
+cout<<"Login feature added";
+cout<<"Main branch update by teammate";
+
+#Final Merge to Main
 ---
 git add .
 git commit -m "Fix conflict"
