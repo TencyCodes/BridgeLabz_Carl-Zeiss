@@ -43,11 +43,20 @@ In this Readme File , i'll Update whatever i learn everyday while attending the 
 
 **What I have Done** : Practiced Looping Problems , Pattern Problems and Logical Problems in C# 
 
-* I was given a Task by Kural Sir , where i had to implement Linux and git commands. Completed the task and sent the link of the task to GChat
+* I was given a Task by Kural Sir , where i had to implement Linux and git commands. Completed the task and sent the link to Kural Sir.
 
-**What I Will Do Next** : Practice More Problems given by Kural sir in the Google Classroom and Revise Git and Linux commands
+**What I Will Do Next** : Practice More Problems given by Kural sir and Revise Git and Linux commands
 
 **Issue Faced** : None
 
+# 17th January , 2026 
+
+**What I have Done** : Practiced C# Fundamental Problems Given By Kural sir.
+* Read about .NET Fundamentals Documentation (history,evolution,etc.).
+
+**What I Will Do Next** : Solve Problems on C# Control Flows 
+* Read and Understand .NET Architecture.
+
+**Issue Faced** : None
 
 
