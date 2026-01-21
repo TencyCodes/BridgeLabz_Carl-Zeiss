@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>DSA.Arrays.Number_Analysis___Comparison</StartupObject>
+    <StartupObject>DSA.Methods.Handshakes</StartupObject>
   </PropertyGroup>
 
 </Project>
