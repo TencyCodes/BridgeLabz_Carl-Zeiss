@@ -1,0 +1,15 @@
+C:\kdrama\BridgeLabz_Carl-Zeiss\OOPs\OOP\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\kdrama\BridgeLabz_Carl-Zeiss\OOPs\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\kdrama\BridgeLabz_Carl-Zeiss\OOPs\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\kdrama\BridgeLabz_Carl-Zeiss\OOPs\OOP\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+C:\kdrama\BridgeLabz_Carl-Zeiss\OOPs\OOP\OOP\obj\Debug\net8.0\OOP.sourcelink.json
+C:\kdrama\BridgeLabz_Carl-Zeiss\OOPs\OOP\OOP\bin\Debug\net8.0\OOP.exe
+C:\kdrama\BridgeLabz_Carl-Zeiss\OOPs\OOP\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\kdrama\BridgeLabz_Carl-Zeiss\OOPs\OOP\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+C:\kdrama\BridgeLabz_Carl-Zeiss\OOPs\OOP\OOP\bin\Debug\net8.0\OOP.dll
+C:\kdrama\BridgeLabz_Carl-Zeiss\OOPs\OOP\OOP\bin\Debug\net8.0\OOP.pdb
+C:\kdrama\BridgeLabz_Carl-Zeiss\OOPs\OOP\OOP\obj\Debug\net8.0\OOP.dll
+C:\kdrama\BridgeLabz_Carl-Zeiss\OOPs\OOP\OOP\obj\Debug\net8.0\refint\OOP.dll
+C:\kdrama\BridgeLabz_Carl-Zeiss\OOPs\OOP\OOP\obj\Debug\net8.0\OOP.pdb
+C:\kdrama\BridgeLabz_Carl-Zeiss\OOPs\OOP\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\kdrama\BridgeLabz_Carl-Zeiss\OOPs\OOP\OOP\obj\Debug\net8.0\ref\OOP.dll
