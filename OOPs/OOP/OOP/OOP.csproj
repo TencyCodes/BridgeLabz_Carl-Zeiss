@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>OOP.OOPs_Basics.Instanceandstatic</StartupObject>
+    <StartupObject>OOP.SnakeandLadder.SnakeandLadder.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
