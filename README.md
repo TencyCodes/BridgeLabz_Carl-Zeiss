@@ -118,3 +118,32 @@ Practiced and understood from first principles:
 
 **Issue Faced :** None
 
+# 23rd January, 2026
+
+**What I have Done:**
+- Studied and practiced **Constructors**:
+  - Default constructor
+  - Parameterized constructor
+  - Constructor overloading
+  - Constructor chaining using `this()`
+- Practiced **Access Modifiers**:
+  - public, private, protected, internal, protected internal, private protected
+- Studied **Properties (Encapsulation)**:
+  - Getters and setters
+  - Auto-implemented properties
+  - Read-only properties
+  - Write-only properties
+
+**What I Will Do Next:**
+- Study **Encapsulation (Core Pillar)**
+- Start **Intermediate OOP Concepts**:
+  - Inheritance
+  - Polymorphism
+  - Abstraction
+  - Interfaces
+
+**Issue Faced:** None
+
+~
+~
+
