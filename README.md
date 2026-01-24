@@ -144,6 +144,20 @@ Practiced and understood from first principles:
 
 **Issue Faced:** None
 
+# 24th January, 2026 
+
+**What I have Done:**
+- Practiced **Properties (Encapsulation)**.
+- Practiced **Encapsulation** properly and understood it from first principles.
+- Started practicing **Inheritance** and understood it from first principles.
+- Completed the **Employee Wage** task given by **Kural Sir**.
+
+**What I Will Do Next:**
+- Finish the remaining **pillars of OOPs**.
+- Revise **everything**.
+
+**Issue Faced:**
+None
 ~
 ~
 
