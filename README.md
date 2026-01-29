@@ -186,4 +186,15 @@ None
 **Issue Faced:**
 None
 
+# 29th January, 2026
+
+**What I have Done:**
+Revised **OOPs concepts** and gave **review to Kural Sir**.
+
+**What I Will Do Next:**
+Learn about **Composition**, **Aggregation**, etc.
+
+**Issue Faced:**
+None
+
 
