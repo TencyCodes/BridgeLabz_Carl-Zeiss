@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\review 2\\rpgevolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\review 2\\rpgevolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\review 2\\universalremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\review 2\\universalremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RPGEvolution.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Review 2\\RPGEvolution.cs",
+              "RelativeDocumentMoniker": "OOP\\Review 2\\RPGEvolution.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Review 2\\RPGEvolution.cs",
+              "RelativeToolTip": "OOP\\Review 2\\RPGEvolution.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:06:14.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniversalRemote.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Review 2\\UniversalRemote.cs",
+              "RelativeDocumentMoniker": "OOP\\Review 2\\UniversalRemote.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Review 2\\UniversalRemote.cs",
+              "RelativeToolTip": "OOP\\Review 2\\UniversalRemote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:04:50.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
