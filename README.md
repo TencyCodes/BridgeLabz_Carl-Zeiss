@@ -209,4 +209,29 @@ Start **Linked List** ASAP.
 
 **Issue Faced:** None
 
+# 31st January , 2026
+
+**What I have Done:**  
+- Solved **array questions**.  
+- Started **Linked List** and understood how it works.
+
+**What I Will Do Next:**  
+- Solve more **Linked List** questions.  
+- Move to another **data structure**.
+
+**Issue Faced:**  None
+
+# SUNDAY
+
+# 2nd February, 2026
+
+**What I have Done:**  
+- Practiced **Linked List manipulation**.  
+- Gave a **technical review to Kural Sir**.
+
+**What I Will Do Next:**  
+- Do more **Linked List** questions.  
+- Start **Stacks**.
+
+**Issue Faced:** None
 
