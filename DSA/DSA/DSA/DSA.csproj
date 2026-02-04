@@ -8,8 +8,4 @@
     <StartupObject>DSA.Review.RPGEvolution.Program</StartupObject>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="LinkedList\" />
-  </ItemGroup>
-
 </Project>

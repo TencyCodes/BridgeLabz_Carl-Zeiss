@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\DSA\\DSA\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAD0C59-50BE-4311-9113-DF85BB619E04}|DSA\\DSA.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\dsa\\dsa\\dsa\\mini-projects\\simpletodolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAD0C59-50BE-4311-9113-DF85BB619E04}|DSA\\DSA.csproj|solutionrelative:dsa\\mini-projects\\simpletodolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleTodoList.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\DSA\\DSA\\DSA\\Mini-Projects\\SimpleTodoList.cs",
+              "RelativeDocumentMoniker": "DSA\\Mini-Projects\\SimpleTodoList.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\DSA\\DSA\\DSA\\Mini-Projects\\SimpleTodoList.cs",
+              "RelativeToolTip": "DSA\\Mini-Projects\\SimpleTodoList.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T11:48:35.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
