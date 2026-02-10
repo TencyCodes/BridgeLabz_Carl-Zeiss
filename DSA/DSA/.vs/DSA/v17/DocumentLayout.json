@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\DSA\\DSA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DAD0C59-50BE-4311-9113-DF85BB619E04}|DSA\\DSA.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\dsa\\dsa\\dsa\\reviewa\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAD0C59-50BE-4311-9113-DF85BB619E04}|DSA\\DSA.csproj|solutionrelative:dsa\\reviewa\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DAD0C59-50BE-4311-9113-DF85BB619E04}|DSA\\DSA.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\dsa\\dsa\\dsa\\reviewa\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAD0C59-50BE-4311-9113-DF85BB619E04}|DSA\\DSA.csproj|solutionrelative:dsa\\reviewa\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DAD0C59-50BE-4311-9113-DF85BB619E04}|DSA\\DSA.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\dsa\\dsa\\dsa\\collections\\generics\\problem4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAD0C59-50BE-4311-9113-DF85BB619E04}|DSA\\DSA.csproj|solutionrelative:dsa\\collections\\generics\\problem4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Question2.cs",
-              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\DSA\\DSA\\DSA\\Reviewa\\Question2.cs",
-              "RelativeDocumentMoniker": "DSA\\Reviewa\\Question2.cs",
-              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\DSA\\DSA\\DSA\\Reviewa\\Question2.cs",
-              "RelativeToolTip": "DSA\\Reviewa\\Question2.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Title": "Problem4.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\DSA\\DSA\\DSA\\Collections\\Generics\\Problem4.cs",
+              "RelativeDocumentMoniker": "DSA\\Collections\\Generics\\Problem4.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\DSA\\DSA\\DSA\\Collections\\Generics\\Problem4.cs",
+              "RelativeToolTip": "DSA\\Collections\\Generics\\Problem4.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T09:01:58.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Question1.cs",
-              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\DSA\\DSA\\DSA\\Reviewa\\Question1.cs",
-              "RelativeDocumentMoniker": "DSA\\Reviewa\\Question1.cs",
-              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\DSA\\DSA\\DSA\\Reviewa\\Question1.cs",
-              "RelativeToolTip": "DSA\\Reviewa\\Question1.cs",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAIwLwAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T08:02:02.535Z",
+              "WhenOpened": "2026-02-09T09:37:28.049Z",
               "EditorCaption": ""
             }
           ]
