@@ -1,12 +1,86 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\encapsulation\\problem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\encapsulation\\problem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\review 2\\rpgevolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\review 2\\rpgevolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\review 2\\universalremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\review 2\\universalremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOP",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\OOP.csproj",
+              "RelativeDocumentMoniker": "OOP\\OOP.csproj",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\OOP.csproj",
+              "RelativeToolTip": "OOP\\OOP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-11T06:47:46.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Problem1.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Encapsulation\\Problem1.cs",
+              "RelativeDocumentMoniker": "OOP\\Encapsulation\\Problem1.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Encapsulation\\Problem1.cs",
+              "RelativeToolTip": "OOP\\Encapsulation\\Problem1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:31:55.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RPGEvolution.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Review 2\\RPGEvolution.cs",
+              "RelativeDocumentMoniker": "OOP\\Review 2\\RPGEvolution.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Review 2\\RPGEvolution.cs",
+              "RelativeToolTip": "OOP\\Review 2\\RPGEvolution.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:06:14.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniversalRemote.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Review 2\\UniversalRemote.cs",
+              "RelativeDocumentMoniker": "OOP\\Review 2\\UniversalRemote.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Review 2\\UniversalRemote.cs",
+              "RelativeToolTip": "OOP\\Review 2\\UniversalRemote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:04:50.586Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
