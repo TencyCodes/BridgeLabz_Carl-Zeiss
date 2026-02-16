@@ -1,0 +1,15 @@
+C:\kdrama\BridgeLabz_Carl-Zeiss\Collections\AddressBook\AddressBook\obj\Debug\net8.0\AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\kdrama\BridgeLabz_Carl-Zeiss\Collections\AddressBook\AddressBook\obj\Debug\net8.0\AddressBook.AssemblyInfoInputs.cache
+C:\kdrama\BridgeLabz_Carl-Zeiss\Collections\AddressBook\AddressBook\obj\Debug\net8.0\AddressBook.AssemblyInfo.cs
+C:\kdrama\BridgeLabz_Carl-Zeiss\Collections\AddressBook\AddressBook\obj\Debug\net8.0\AddressBook.csproj.CoreCompileInputs.cache
+C:\kdrama\BridgeLabz_Carl-Zeiss\Collections\AddressBook\AddressBook\obj\Debug\net8.0\AddressBook.sourcelink.json
+C:\kdrama\BridgeLabz_Carl-Zeiss\Collections\AddressBook\AddressBook\bin\Debug\net8.0\AddressBook.exe
+C:\kdrama\BridgeLabz_Carl-Zeiss\Collections\AddressBook\AddressBook\bin\Debug\net8.0\AddressBook.deps.json
+C:\kdrama\BridgeLabz_Carl-Zeiss\Collections\AddressBook\AddressBook\bin\Debug\net8.0\AddressBook.runtimeconfig.json
+C:\kdrama\BridgeLabz_Carl-Zeiss\Collections\AddressBook\AddressBook\bin\Debug\net8.0\AddressBook.dll
+C:\kdrama\BridgeLabz_Carl-Zeiss\Collections\AddressBook\AddressBook\bin\Debug\net8.0\AddressBook.pdb
+C:\kdrama\BridgeLabz_Carl-Zeiss\Collections\AddressBook\AddressBook\obj\Debug\net8.0\AddressBook.dll
+C:\kdrama\BridgeLabz_Carl-Zeiss\Collections\AddressBook\AddressBook\obj\Debug\net8.0\refint\AddressBook.dll
+C:\kdrama\BridgeLabz_Carl-Zeiss\Collections\AddressBook\AddressBook\obj\Debug\net8.0\AddressBook.pdb
+C:\kdrama\BridgeLabz_Carl-Zeiss\Collections\AddressBook\AddressBook\obj\Debug\net8.0\AddressBook.genruntimeconfig.cache
+C:\kdrama\BridgeLabz_Carl-Zeiss\Collections\AddressBook\AddressBook\obj\Debug\net8.0\ref\AddressBook.dll

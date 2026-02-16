@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Basics</id>
+    <version>1.0.0</version>
+    <authors>Basics</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="6bfe4a91b168d6ebcb466deb7a6a1f983a144025" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\kdrama\BridgeLabz_Carl-Zeiss\Basics\Basics\bin\Debug\net8.0\Basics.runtimeconfig.json" target="lib\net8.0\Basics.runtimeconfig.json" />
+    <file src="C:\kdrama\BridgeLabz_Carl-Zeiss\Basics\Basics\bin\Debug\net8.0\Basics.dll" target="lib\net8.0\Basics.dll" />
+  </files>
+</package>

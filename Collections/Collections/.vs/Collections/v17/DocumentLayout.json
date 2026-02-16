@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Collections\\Collections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C6E27A-FF6A-4C4A-A809-CE3FA3634143}|Collections\\Collections.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\collections\\collections\\collections\\stack\\stackbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C6E27A-FF6A-4C4A-A809-CE3FA3634143}|Collections\\Collections.csproj|solutionrelative:collections\\stack\\stackbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stackbasic.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Collections\\Collections\\Collections\\Stack\\stackbasic.cs",
+              "RelativeDocumentMoniker": "Collections\\Stack\\stackbasic.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Collections\\Collections\\Collections\\Stack\\stackbasic.cs",
+              "RelativeToolTip": "Collections\\Stack\\stackbasic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T12:19:58.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
