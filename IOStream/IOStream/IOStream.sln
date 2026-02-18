@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOStream", "IOStream\IOStream.csproj", "{FC6DAA99-1658-48C1-94F2-3EC37D515D77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC6DAA99-1658-48C1-94F2-3EC37D515D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6DAA99-1658-48C1-94F2-3EC37D515D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6DAA99-1658-48C1-94F2-3EC37D515D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6DAA99-1658-48C1-94F2-3EC37D515D77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F0F1262-5B55-400C-95A9-975C93D1EB5C}
+	EndGlobalSection
+EndGlobal

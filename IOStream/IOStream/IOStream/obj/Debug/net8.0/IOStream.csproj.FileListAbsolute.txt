@@ -1,0 +1,15 @@
+C:\kdrama\BridgeLabz_Carl-Zeiss\IOStream\IOStream\IOStream\bin\Debug\net8.0\IOStream.exe
+C:\kdrama\BridgeLabz_Carl-Zeiss\IOStream\IOStream\IOStream\bin\Debug\net8.0\IOStream.deps.json
+C:\kdrama\BridgeLabz_Carl-Zeiss\IOStream\IOStream\IOStream\bin\Debug\net8.0\IOStream.runtimeconfig.json
+C:\kdrama\BridgeLabz_Carl-Zeiss\IOStream\IOStream\IOStream\bin\Debug\net8.0\IOStream.dll
+C:\kdrama\BridgeLabz_Carl-Zeiss\IOStream\IOStream\IOStream\bin\Debug\net8.0\IOStream.pdb
+C:\kdrama\BridgeLabz_Carl-Zeiss\IOStream\IOStream\IOStream\obj\Debug\net8.0\IOStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\kdrama\BridgeLabz_Carl-Zeiss\IOStream\IOStream\IOStream\obj\Debug\net8.0\IOStream.AssemblyInfoInputs.cache
+C:\kdrama\BridgeLabz_Carl-Zeiss\IOStream\IOStream\IOStream\obj\Debug\net8.0\IOStream.AssemblyInfo.cs
+C:\kdrama\BridgeLabz_Carl-Zeiss\IOStream\IOStream\IOStream\obj\Debug\net8.0\IOStream.csproj.CoreCompileInputs.cache
+C:\kdrama\BridgeLabz_Carl-Zeiss\IOStream\IOStream\IOStream\obj\Debug\net8.0\IOStream.sourcelink.json
+C:\kdrama\BridgeLabz_Carl-Zeiss\IOStream\IOStream\IOStream\obj\Debug\net8.0\IOStream.dll
+C:\kdrama\BridgeLabz_Carl-Zeiss\IOStream\IOStream\IOStream\obj\Debug\net8.0\refint\IOStream.dll
+C:\kdrama\BridgeLabz_Carl-Zeiss\IOStream\IOStream\IOStream\obj\Debug\net8.0\IOStream.pdb
+C:\kdrama\BridgeLabz_Carl-Zeiss\IOStream\IOStream\IOStream\obj\Debug\net8.0\IOStream.genruntimeconfig.cache
+C:\kdrama\BridgeLabz_Carl-Zeiss\IOStream\IOStream\IOStream\obj\Debug\net8.0\ref\IOStream.dll
