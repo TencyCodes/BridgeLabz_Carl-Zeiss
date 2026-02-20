@@ -427,4 +427,24 @@ None
 **Issues faced:** None
 
 
+# **19th February, 2026**
 
+**What I have done:**
+- Learned Regex concepts.  
+- Implemented Regex.  
+
+**What I will do next:**
+- Start LINQ.  
+
+ **Issues faced:** None
+
+# **20 February 2026**
+
+**What I have done:**
+- Completed Review 5.
+
+**What I will do next:**
+- Continue learning LINQ.
+
+**Issues faced:**
+- None
