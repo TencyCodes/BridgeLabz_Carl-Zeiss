@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\review\\review 5\\review 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|solutionrelative:review 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\review\\review 5\\review 5\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|solutionrelative:review 5\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\review\\review 5\\review 5\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|solutionrelative:review 5\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\review\\review 5\\review 5\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|solutionrelative:review 5\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\review\\review 5\\review 5\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|solutionrelative:review 5\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\review\\review 5\\review 5\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|solutionrelative:review 5\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\review\\review 5\\review 5\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|solutionrelative:review 5\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\review\\review 5\\review 5\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|solutionrelative:review 5\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\review\\review 5\\review 5\\salaryprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|solutionrelative:review 5\\salaryprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\review\\review 5\\review 5\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D69CB-5E2B-4648-919C-EDA227B35805}|Review 5\\Review 5.csproj|solutionrelative:review 5\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\Program.cs",
+              "RelativeDocumentMoniker": "Review 5\\Program.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\Program.cs",
+              "RelativeToolTip": "Review 5\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:38:57.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\FileManager.cs",
+              "RelativeDocumentMoniker": "Review 5\\FileManager.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\FileManager.cs",
+              "RelativeToolTip": "Review 5\\FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:34:41.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\SearchService.cs",
+              "RelativeDocumentMoniker": "Review 5\\SearchService.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\SearchService.cs",
+              "RelativeToolTip": "Review 5\\SearchService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:30:51.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalaryProcessor.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\SalaryProcessor.cs",
+              "RelativeDocumentMoniker": "Review 5\\SalaryProcessor.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\SalaryProcessor.cs",
+              "RelativeToolTip": "Review 5\\SalaryProcessor.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:26:30.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "Review 5\\EmployeeManager.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\EmployeeManager.cs",
+              "RelativeToolTip": "Review 5\\EmployeeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:21:58.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContractEmployee.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\ContractEmployee.cs",
+              "RelativeDocumentMoniker": "Review 5\\ContractEmployee.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\ContractEmployee.cs",
+              "RelativeToolTip": "Review 5\\ContractEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:39:08.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "Review 5\\PartTimeEmployee.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\PartTimeEmployee.cs",
+              "RelativeToolTip": "Review 5\\PartTimeEmployee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T07:25:53.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "Review 5\\FullTimeEmployee.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\FullTimeEmployee.cs",
+              "RelativeToolTip": "Review 5\\FullTimeEmployee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T07:19:04.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\Employee.cs",
+              "RelativeDocumentMoniker": "Review 5\\Employee.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\Employee.cs",
+              "RelativeToolTip": "Review 5\\Employee.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwDwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:57:46.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\ValidationException.cs",
+              "RelativeDocumentMoniker": "Review 5\\ValidationException.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\Review\\Review 5\\Review 5\\ValidationException.cs",
+              "RelativeToolTip": "Review 5\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:55:05.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
